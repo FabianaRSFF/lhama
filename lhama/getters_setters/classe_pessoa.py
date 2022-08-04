@@ -8,7 +8,7 @@ class Pessoa: # Substantivo
         print(f'{nome} está dirigindo um/a {veiculo}')
         
     def cantar(self) -> None:                       # Verbos
-        print("La la la...")
+        print("La la la...")    
     
     def apresentar_idade(self) -> int:             # Verbos
         return self.idade
